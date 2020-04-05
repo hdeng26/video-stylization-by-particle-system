@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77808753-241e-4bfc-8f7e-8ced386a58bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Zdg8Iy9SOqiqqtIvKWQEcF5OFk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/anaconda3" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="particle_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="anaconda3" type="PythonConfigurationType" factoryName="Python">
+      <module name="particle_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77808753-241e-4bfc-8f7e-8ced386a58bc" name="Default Changelist" comment="" />
+      <created>1585174223441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585174223441</updated>
+      <workItem from="1585174262787" duration="590000" />
+      <workItem from="1585192060115" duration="6000" />
+      <workItem from="1585257315829" duration="10000" />
+      <workItem from="1585260736696" duration="53000" />
+      <workItem from="1585955786793" duration="9000" />
+      <workItem from="1585996978315" duration="568000" />
+      <workItem from="1585997555655" duration="82000" />
+      <workItem from="1585997667109" duration="12000" />
+      <workItem from="1585998596785" duration="2548000" />
+      <workItem from="1586127206112" duration="484000" />
+      <workItem from="1586127703654" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="189" y="221" width="1092" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586127357905">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="189" y="221" width="1092" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586127357905" />
+    <state x="1014" y="284" key="EnvironmentVariablesDialog" timestamp="1585997124325">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1014" y="284" key="EnvironmentVariablesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1585997124325" />
+    <state x="1060" y="278" key="FileChooserDialogImpl" timestamp="1586127264925">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="278" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1586127264925" />
+    <state x="372" y="230" key="SettingsEditor" timestamp="1586127824191">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="372" y="230" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1586127824191" />
+    <state x="174" y="225" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1585997598635">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="174" y="225" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.2560.1040@0.0.2560.1040" timestamp="1585997598635" />
+    <state x="972" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586127703956">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="972" y="347" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586127703956" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/particle_system$anaconda3.coverage" NAME="anaconda3 Coverage Results" MODIFIED="1586001160181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
