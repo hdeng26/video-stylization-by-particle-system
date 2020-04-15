@@ -55,7 +55,7 @@ def processFrame(img, outputIntensity):
 outputIntensity = algbp.outputIntensity
 time_start = time.time()
 
-cap = cv2.VideoCapture('lion.mp4')
+cap = cv2.VideoCapture('video/original_lions_video.mp4')
 ret1, frame1 = cap.read()
 prvs = cv2.GaussianBlur(cv2.cvtColor(frame1, cv2.COLOR_BGR2GRAY),(5,5),0)
 baseOutput = processFrame(prvs, outputIntensity)
